@@ -1,0 +1,2 @@
+access_token_read = "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"
+access_token_write = "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"
